@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello I'm Artem!
 
 <!--
 **SkyGreenxd/SkyGreenxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me:
+
+- Currently, I deepen my knowledge in the field of artificial intelligence and data analysis at MIREA
+- In parallel, I pass intensive training at school 21, where I develop technical and soft skills: teamwork, leadership, peer-to-peer training and solving non-standard problems
+
+### Core technologies
+Go, C, PostgreSQL, Bash
+
+# Contacts
+- [Telegram](https://telegram.me/skygreenxd)
