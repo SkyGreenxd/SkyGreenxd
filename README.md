@@ -24,3 +24,4 @@ Go, C, PostgreSQL, Bash
 
 # Contacts
 - [Telegram](https://telegram.me/skygreenxd)
+- [VK](https://vk.com/mrskygreen)
