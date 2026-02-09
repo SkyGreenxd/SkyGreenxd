@@ -21,6 +21,7 @@
 
 ### Contacts
 <p align="left">
+  <a href="https://disk.yandex.ru/i/xscQ-rFmCQpJVw" target="_blank"><img src="https://img.shields.io/badge/Resume-2EA81A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
   <a href="https://telegram.me/skygreenxd" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://vk.com/mrskygreen" target="_blank"><img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
   <a href="mailto:dubov_2005@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
