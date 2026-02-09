@@ -1,19 +1,5 @@
 ## 👋 Hello I'm Artem!
 
-<!--
-**SkyGreenxd/SkyGreenxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### About me:
 
 - Currently, I deepen my knowledge in the field of artificial intelligence and data analysis at MIREA
@@ -33,7 +19,9 @@ Here are some ideas to get you started:
   <a href="https://qdrant.tech/"><img src="https://img.shields.io/badge/Qdrant-f82329?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"></a>
 </p>
 
-
-# Contacts
-- [Telegram](https://telegram.me/skygreenxd)
-- [VK](https://vk.com/mrskygreen)
+### Contacts
+<p align="left">
+  <a href="https://telegram.me/skygreenxd" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://vk.com/mrskygreen" target="_blank"><img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
+  <a href="mailto:dubov_2005@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
