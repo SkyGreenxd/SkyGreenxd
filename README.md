@@ -2,8 +2,9 @@
 
 ### About me:
 
-- Currently, I deepen my knowledge in the field of artificial intelligence and data analysis at MIREA
-- In parallel, I pass intensive training at school 21, where I develop technical and soft skills: teamwork, leadership, peer-to-peer training and solving non-standard problems
+- I'm deepening my knowledge in artificial intelligence and data analysis at MIREA.
+- I'm also undergoing intensive training at School 21, where I'm developing my technical and soft skills: teamwork, leadership, peer-to-peer learning, and problem-solving.
+- I work as a Go developer at T-Bank.
 
 ### Core technologies
 <p align="left">
